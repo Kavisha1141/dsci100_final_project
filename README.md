@@ -1,6 +1,5 @@
-# dsci-100-project_template
+# Project Final Report
 
-Template project repository for DSCI-100
 This year we have a unique opportunity (this has never happened in past years!): a real data science project with real stakeholders looking for answers to a few questions about their data.
 
 In particular, a research group in Computer Science at UBC is collecting data about how people play video games. They have set up a Minecraft serverLinks to an external site., and players actions are recorded as they navigate through the world. But running this project is not simple: they need to target their recruitment efforts and ensure they have enough resources (e.g., software licenses, and server hardware) to handle the number of players they attract. They have a few questions they want to answer. From the project lead, Frank Wood:
