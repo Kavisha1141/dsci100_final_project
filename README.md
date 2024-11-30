@@ -1,4 +1,4 @@
-# dsci-100-project_template
+# Project Final Report
 
 Template project repository for DSCI-100
 This year we have a unique opportunity (this has never happened in past years!): a real data science project with real stakeholders looking for answers to a few questions about their data.
