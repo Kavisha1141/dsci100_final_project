@@ -9,7 +9,7 @@ Specifically, our group is interested in learning about how *player age* might b
 ## Technologies & Tools
 
 - Programming Language: R
-- Environment: Jupyter Notebook (IRkernel)
+- Environment: Jupyter Notebook 
 - Packages: tidyverse for data manipulation and visualization, tidymodels for modeling, repr for notebook output formatting
 
 ## Methodology
