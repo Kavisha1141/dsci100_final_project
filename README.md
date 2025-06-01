@@ -1,4 +1,4 @@
-# Project Final Report
+# README: Project Final Report
 
 The Pacific Laboratory for Artifical Intelligence (PLAI) is research group in computer science at UBC. They have Minecraft server, called PLAIcraft, where they record player's actions as they navigate through the virtual world. The research group would like to target their PLAIcraft recruitment efforts and ensure they have enough resources to handle the number of players they attract. 
 
